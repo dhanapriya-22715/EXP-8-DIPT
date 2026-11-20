@@ -1,6 +1,6 @@
-## Exp-8-Record-THRESHOLDING
-## NAME : Dhanappriya S
-## REG NO :212224230056
+# Exp-8-Record-THRESHOLDING
+# NAME : Dhanappriya S
+# REG NO :212224230056
 
 # Aim:
 To implement and compare image segmentation using Global Thresholding, Adaptive Thresholding, and Otsu's Method in Python using OpenCV.
