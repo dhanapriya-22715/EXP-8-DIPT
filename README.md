@@ -65,6 +65,8 @@ plt.show()
 <img width="747" height="295" alt="image" src="https://github.com/user-attachments/assets/881439ed-5806-4a71-a5f3-1fdfe48c0362" />
 
 <img width="773" height="600" alt="image" src="https://github.com/user-attachments/assets/00859a92-4152-43b2-ac46-2bd0fad7e2fc" />
+
+
 # Result:
 Thus to implement and compare image segmentation using Global Thresholding, Adaptive Thresholding, and Otsu's Method in Python using OpenCV was verified successfully.
 
